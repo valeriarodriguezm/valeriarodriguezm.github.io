@@ -176,12 +176,13 @@ SECTION WRAPS
 
 #headerwrap h1 {
   font-size: 80px;
-  color: black;
+  color: white;
+  type: bold;
 }
 
 #headerwrap h3 {
   font-size: 20px;
-  color: black;
+  color: white;
 }
 
 /* Intnro Wrap */
