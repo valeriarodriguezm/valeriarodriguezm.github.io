@@ -177,7 +177,6 @@ SECTION WRAPS
 #headerwrap h1 {
   font-size: 80px;
   color: white;
-  type: bold;
 }
 
 #headerwrap h3 {
